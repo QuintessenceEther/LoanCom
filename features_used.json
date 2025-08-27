@@ -1,0 +1,38 @@
+{
+  "features": [
+    "id",
+    "title",
+    "career",
+    "zip_code",
+    "residence",
+    "loan",
+    "term",
+    "interest_rate",
+    "issue_time",
+    "syndicated",
+    "installment",
+    "record_time",
+    "history_time",
+    "total_accounts",
+    "balance_accounts",
+    "balance_limit",
+    "balance",
+    "level",
+    "career_isna",
+    "payment_to_balance"
+  ],
+  "cat_features": [
+    "balance_accounts",
+    "career",
+    "installment",
+    "interest_rate",
+    "level",
+    "loan",
+    "residence",
+    "syndicated",
+    "term",
+    "title",
+    "total_accounts",
+    "zip_code"
+  ]
+}
