@@ -1,0 +1,7 @@
+请在下一次把以下文件一并提供，便于我进一步稳定与提分：
+1) cv_report_stage1.csv 与 cv_report_final.csv（每折样本数/正负占比/时间范围/AUC）
+2) per_fold_importance_stage1.csv 与 per_fold_importance_final.csv（各折与各种子重要性）
+3) time_bin_auc_final.csv（按时间分箱的AUC，定位“时间段掉线”）
+4) calib_bins_final.csv（分箱校准，验证分数-违约率一致性）
+5) feature_psi.csv、missingness_drift.csv（确认中度漂移）
+6) data_quality_report.csv、constant_columns.csv、high_skew_features.csv（如存在）

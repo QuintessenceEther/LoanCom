@@ -1,0 +1,5 @@
+请提供以下文件以便我继续检查并稳健提分：
+- cv_report_v8.csv、feature_importance_v8.csv、per_fold_importance_v8.csv、oof_v8.csv
+- suspect_report.csv（我会根据可疑分与业务合理性给你“黑名单/白名单”）
+- time_bin_auc_v8.csv（若存在时间分布问题，我会建议只在稳定区间做特征）
+- manual_drop_features.txt（如你主动加入了待剔除可疑列）
