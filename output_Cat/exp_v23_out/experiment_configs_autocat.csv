@@ -1,0 +1,5 @@
+name,drop_cols,do_winsor,psi_bin_threshold,autocat,max_card,max_ratio,integer_only,duplicate_numeric_as_cat,te,te_cv,strong
+AC1_dup_card64_ratio2,"['zip_code', 'title', 'residence']",True,0.15,True,64,0.02,True,True,True,time,False
+AC2_dup_card32_ratio1,"['zip_code', 'title', 'residence']",True,0.15,True,32,0.01,True,True,True,time,False
+AC3_replace_card64_ratio2,"['zip_code', 'title', 'residence']",True,0.15,True,64,0.02,True,False,True,time,True
+AC4_dup_card64_ratio2_noTE,"['zip_code', 'title', 'residence']",True,0.15,True,64,0.02,True,True,False,time,True

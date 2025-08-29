@@ -1,0 +1,13 @@
+career
+grade
+level
+active_days__as_cat
+balance_accounts__as_cat
+career__as_cat
+expense_count__as_cat
+income_count__as_cat
+loan__as_cat
+span_days__as_cat
+subgrade__as_cat
+total_accounts__as_cat
+tx_count__as_cat

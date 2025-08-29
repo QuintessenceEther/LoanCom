@@ -1,0 +1,5 @@
+record_dt
+sum_expense_abs
+amt_p90
+amt_p50
+last_tx_days_before_record

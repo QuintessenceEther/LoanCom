@@ -1,0 +1,6 @@
+name,drop_cols,do_winsor,use_scale_pos_weight
+A_base_dropgeo_winz,"['zip_code', 'title', 'residence']",True,False
+B_drop_stmt_counts_keep_ewm,"['zip_code', 'title', 'residence', 'span_days', 'active_days', 'tx_count']",True,False
+C_base_scale_pos_weight,"['zip_code', 'title', 'residence']",True,True
+D_base_auto_psi,"['zip_code', 'title', 'residence', 'record_dt', 'sum_expense_abs', 'amt_p90', 'amt_p50', 'last_tx_days_before_record']",True,False
+E_base_drop_ewm,"['zip_code', 'title', 'residence', 'ewm_income', 'ewm_expense_abs', 'ewm_tx', 'ewm_income_expense_ratio']",True,False
